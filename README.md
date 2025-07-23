@@ -57,16 +57,7 @@ jupyter notebook "Employee Salary Prediction.ipynb"
 
 3. Follow the steps inside the notebook to preprocess data, visualize, train models, and make predictions.
 
----
 
-### 📉 Sample Output
-
-> Prediction Sample:
->
-> ```
-> Input: Experience: 5 years, Job Role: Data Scientist, Location: Bangalore
-> Output: Predicted Monthly Salary: ₹75,000
-> ```
 
 ---
 
