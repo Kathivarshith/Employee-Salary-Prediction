@@ -88,7 +88,7 @@ jupyter notebook "Employee Salary Prediction.ipynb"
 
 ### 📬 Contact
 
-For questions or feedback, contact \mailto:kathivarshithgoud59@gmail.com or open an issue.
+For questions or feedback, contact \ mailto: kathivarshithgoud59@gmail.com or open an issue.
 
 ---
 
